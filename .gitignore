@@ -1,0 +1,22 @@
+# Node
+node_modules
+
+# OS
+.DS_Store
+
+# Build
+dist
+
+# Environment
+.env
+
+# Test
+coverage
+
+# Logs
+logs
+*.log
+
+# IDE
+.vscode
+.idea
